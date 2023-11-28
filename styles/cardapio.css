@@ -85,3 +85,12 @@
 .cardapio-bebidas .info-texto{
     font-size: .8rem;
 }
+
+@media (max-width:768px){
+.cardapio-favoritas img:nth-child(n + 8){
+    background-color: aqua;
+    display: none;
+
+}
+
+}
